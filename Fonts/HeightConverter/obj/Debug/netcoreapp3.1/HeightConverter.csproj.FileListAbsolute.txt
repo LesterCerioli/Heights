@@ -1,0 +1,9 @@
+C:\Users\lester_profarma\source\repos\Heights\HeightConverter\bin\Debug\netcoreapp3.1\HeightConverter.deps.json
+C:\Users\lester_profarma\source\repos\Heights\HeightConverter\bin\Debug\netcoreapp3.1\HeightConverter.dll
+C:\Users\lester_profarma\source\repos\Heights\HeightConverter\bin\Debug\netcoreapp3.1\HeightConverter.pdb
+C:\Users\lester_profarma\source\repos\Heights\HeightConverter\obj\Debug\netcoreapp3.1\HeightConverter.csprojAssemblyReference.cache
+C:\Users\lester_profarma\source\repos\Heights\HeightConverter\obj\Debug\netcoreapp3.1\HeightConverter.AssemblyInfoInputs.cache
+C:\Users\lester_profarma\source\repos\Heights\HeightConverter\obj\Debug\netcoreapp3.1\HeightConverter.AssemblyInfo.cs
+C:\Users\lester_profarma\source\repos\Heights\HeightConverter\obj\Debug\netcoreapp3.1\HeightConverter.csproj.CoreCompileInputs.cache
+C:\Users\lester_profarma\source\repos\Heights\HeightConverter\obj\Debug\netcoreapp3.1\HeightConverter.dll
+C:\Users\lester_profarma\source\repos\Heights\HeightConverter\obj\Debug\netcoreapp3.1\HeightConverter.pdb
